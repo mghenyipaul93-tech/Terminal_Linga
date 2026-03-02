@@ -1,0 +1,22 @@
+{
+  "ls": {
+    "swahili": {
+      "explanation": "Huonyesha faili ndani ya folda.",
+      "analogy": "Ni kama kufungua droo kuona vilivyomo."
+    }
+  },
+
+  "ls -la": {
+    "swahili": {
+      "explanation": "Huonyesha faili zote hata zilizofichwa.",
+      "analogy": "Ni kama kuangalia kila kitu ndani ya nyumba hata vilivyofichwa."
+    }
+  },
+
+  "pwd": {
+    "swahili": {
+      "explanation": "Huonyesha ulipo sasa kwenye mfumo.",
+      "analogy": "Ni kama kuuliza niko wapi?"
+    }
+  }
+}
